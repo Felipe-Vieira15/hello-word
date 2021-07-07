@@ -29,5 +29,15 @@ git push origin main
 ```
 # clonar repositório do github
 ```git
-git clone
+git clone link do repositorio
+```
+
+# clonar repositório do github para a pasta
+```git
+git clone link do repositorio nome
+```
+
+# ver alterações no repositório
+```git 
+  git status 
 ```
